@@ -1,0 +1,22 @@
+/.venv/
+/build/
+/dist/
+*.egg-info/
+__pycache__/
+*.pyc
+.pytest_cache/
+.secrets/
+.env
+/data/
+/exports/
+*.gpx
+!examples/*.gpx
+.DS_Store
+
+.yamap-token
+.yamap-update-*/
+.*.sync.lock
+
+# Default CLI outputs and credential file.
+/yamap-archive/
+/yamap-token

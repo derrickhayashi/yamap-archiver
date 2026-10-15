@@ -1,0 +1,17 @@
+{
+  "activities": [
+    {
+      "id": 1,
+      "title": "Synthetic activity",
+      "start_at": 1704067200,
+      "time_zone": 0,
+      "public_type": "public",
+      "duration": 60,
+      "distance": 100
+    }
+  ],
+  "meta": {
+    "total_count": 1,
+    "total_pages": 1
+  }
+}

@@ -1,0 +1,3 @@
+include LICENSE README.md release-files.txt
+recursive-include examples *.json *.gpx *.md
+recursive-include tests *.py
